@@ -1,0 +1,17 @@
+/dataset_Oils
+/processed_timegan/
+/venv/
+/.venv/
+
+# Python cache and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment and editor files
+.DS_Store
+.vscode/
+
+# Generated outputs
+*.csv
+*.npz
