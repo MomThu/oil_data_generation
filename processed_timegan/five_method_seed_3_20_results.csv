@@ -1,451 +1,451 @@
-method,method_label,seed_per_class,generated_total,train_size_augmented,model,accuracy
-mixup_jitter,Mixup + Jitter,3,50,107,1D-CNN,0.48120300751879697
-mixup_jitter,Mixup + Jitter,3,50,107,GRU,0.10526315789473684
-mixup_jitter,Mixup + Jitter,3,50,107,LSTM,0.05263157894736842
-mixup_jitter,Mixup + Jitter,3,50,107,CNN-GRU,0.06390977443609022
-mixup_jitter,Mixup + Jitter,3,50,107,RandomForest,0.7218045112781954
-mixup_jitter,Mixup + Jitter,4,50,126,1D-CNN,0.41353383458646614
-mixup_jitter,Mixup + Jitter,4,50,126,GRU,0.15789473684210525
-mixup_jitter,Mixup + Jitter,4,50,126,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,4,50,126,CNN-GRU,0.11654135338345864
-mixup_jitter,Mixup + Jitter,4,50,126,RandomForest,0.8383458646616542
-mixup_jitter,Mixup + Jitter,5,50,145,1D-CNN,0.47368421052631576
-mixup_jitter,Mixup + Jitter,5,50,145,GRU,0.10526315789473684
-mixup_jitter,Mixup + Jitter,5,50,145,LSTM,0.07518796992481203
-mixup_jitter,Mixup + Jitter,5,50,145,CNN-GRU,0.15789473684210525
-mixup_jitter,Mixup + Jitter,5,50,145,RandomForest,0.868421052631579
-mixup_jitter,Mixup + Jitter,6,50,164,1D-CNN,0.6127819548872181
-mixup_jitter,Mixup + Jitter,6,50,164,GRU,0.12406015037593984
-mixup_jitter,Mixup + Jitter,6,50,164,LSTM,0.12030075187969924
-mixup_jitter,Mixup + Jitter,6,50,164,CNN-GRU,0.21052631578947367
-mixup_jitter,Mixup + Jitter,6,50,164,RandomForest,0.8759398496240601
-mixup_jitter,Mixup + Jitter,7,50,183,1D-CNN,0.6278195488721805
-mixup_jitter,Mixup + Jitter,7,50,183,GRU,0.10526315789473684
-mixup_jitter,Mixup + Jitter,7,50,183,LSTM,0.12781954887218044
-mixup_jitter,Mixup + Jitter,7,50,183,CNN-GRU,0.14661654135338345
-mixup_jitter,Mixup + Jitter,7,50,183,RandomForest,0.943609022556391
-mixup_jitter,Mixup + Jitter,8,50,202,1D-CNN,0.6578947368421053
-mixup_jitter,Mixup + Jitter,8,50,202,GRU,0.10526315789473684
-mixup_jitter,Mixup + Jitter,8,50,202,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,8,50,202,CNN-GRU,0.12781954887218044
-mixup_jitter,Mixup + Jitter,8,50,202,RandomForest,0.8796992481203008
-mixup_jitter,Mixup + Jitter,9,50,221,1D-CNN,0.7218045112781954
-mixup_jitter,Mixup + Jitter,9,50,221,GRU,0.10526315789473684
-mixup_jitter,Mixup + Jitter,9,50,221,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,9,50,221,CNN-GRU,0.10526315789473684
-mixup_jitter,Mixup + Jitter,9,50,221,RandomForest,0.9398496240601504
-mixup_jitter,Mixup + Jitter,10,50,240,1D-CNN,0.7030075187969925
-mixup_jitter,Mixup + Jitter,10,50,240,GRU,0.12406015037593984
-mixup_jitter,Mixup + Jitter,10,50,240,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,10,50,240,CNN-GRU,0.12406015037593984
-mixup_jitter,Mixup + Jitter,10,50,240,RandomForest,0.9285714285714286
-mixup_jitter,Mixup + Jitter,11,55,264,1D-CNN,0.7330827067669173
-mixup_jitter,Mixup + Jitter,11,55,264,GRU,0.10526315789473684
-mixup_jitter,Mixup + Jitter,11,55,264,LSTM,0.11654135338345864
-mixup_jitter,Mixup + Jitter,11,55,264,CNN-GRU,0.16165413533834586
-mixup_jitter,Mixup + Jitter,11,55,264,RandomForest,0.9360902255639098
-mixup_jitter,Mixup + Jitter,12,60,288,1D-CNN,0.7255639097744361
-mixup_jitter,Mixup + Jitter,12,60,288,GRU,0.13533834586466165
-mixup_jitter,Mixup + Jitter,12,60,288,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,12,60,288,CNN-GRU,0.18421052631578946
-mixup_jitter,Mixup + Jitter,12,60,288,RandomForest,0.9774436090225563
-mixup_jitter,Mixup + Jitter,13,65,312,1D-CNN,0.6954887218045113
-mixup_jitter,Mixup + Jitter,13,65,312,GRU,0.10150375939849623
-mixup_jitter,Mixup + Jitter,13,65,312,LSTM,0.11278195488721804
-mixup_jitter,Mixup + Jitter,13,65,312,CNN-GRU,0.16917293233082706
-mixup_jitter,Mixup + Jitter,13,65,312,RandomForest,0.9323308270676691
-mixup_jitter,Mixup + Jitter,14,70,336,1D-CNN,0.8007518796992481
-mixup_jitter,Mixup + Jitter,14,70,336,GRU,0.11654135338345864
-mixup_jitter,Mixup + Jitter,14,70,336,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,14,70,336,CNN-GRU,0.24436090225563908
-mixup_jitter,Mixup + Jitter,14,70,336,RandomForest,0.9736842105263158
-mixup_jitter,Mixup + Jitter,15,75,360,1D-CNN,0.8458646616541353
-mixup_jitter,Mixup + Jitter,15,75,360,GRU,0.15789473684210525
-mixup_jitter,Mixup + Jitter,15,75,360,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,15,75,360,CNN-GRU,0.2669172932330827
-mixup_jitter,Mixup + Jitter,15,75,360,RandomForest,0.9511278195488722
-mixup_jitter,Mixup + Jitter,16,80,384,1D-CNN,0.8609022556390977
-mixup_jitter,Mixup + Jitter,16,80,384,GRU,0.19548872180451127
-mixup_jitter,Mixup + Jitter,16,80,384,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,16,80,384,CNN-GRU,0.3157894736842105
-mixup_jitter,Mixup + Jitter,16,80,384,RandomForest,0.9060150375939849
-mixup_jitter,Mixup + Jitter,17,85,408,1D-CNN,0.8270676691729323
-mixup_jitter,Mixup + Jitter,17,85,408,GRU,0.12406015037593984
-mixup_jitter,Mixup + Jitter,17,85,408,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,17,85,408,CNN-GRU,0.3383458646616541
-mixup_jitter,Mixup + Jitter,17,85,408,RandomForest,0.9398496240601504
-mixup_jitter,Mixup + Jitter,18,90,432,1D-CNN,0.8308270676691729
-mixup_jitter,Mixup + Jitter,18,90,432,GRU,0.22932330827067668
-mixup_jitter,Mixup + Jitter,18,90,432,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,18,90,432,CNN-GRU,0.35714285714285715
-mixup_jitter,Mixup + Jitter,18,90,432,RandomForest,0.9661654135338346
-mixup_jitter,Mixup + Jitter,19,95,456,1D-CNN,0.8007518796992481
-mixup_jitter,Mixup + Jitter,19,95,456,GRU,0.16541353383458646
-mixup_jitter,Mixup + Jitter,19,95,456,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,19,95,456,CNN-GRU,0.33458646616541354
-mixup_jitter,Mixup + Jitter,19,95,456,RandomForest,0.9736842105263158
-mixup_jitter,Mixup + Jitter,20,100,480,1D-CNN,0.8195488721804511
-mixup_jitter,Mixup + Jitter,20,100,480,GRU,0.15413533834586465
-mixup_jitter,Mixup + Jitter,20,100,480,LSTM,0.10526315789473684
-mixup_jitter,Mixup + Jitter,20,100,480,CNN-GRU,0.39473684210526316
-mixup_jitter,Mixup + Jitter,20,100,480,RandomForest,0.9586466165413534
-magnitude_scaling,Magnitude Scaling + Jitter,3,50,107,1D-CNN,0.37593984962406013
-magnitude_scaling,Magnitude Scaling + Jitter,3,50,107,GRU,0.07518796992481203
-magnitude_scaling,Magnitude Scaling + Jitter,3,50,107,LSTM,0.05263157894736842
-magnitude_scaling,Magnitude Scaling + Jitter,3,50,107,CNN-GRU,0.12781954887218044
-magnitude_scaling,Magnitude Scaling + Jitter,3,50,107,RandomForest,0.7180451127819549
-magnitude_scaling,Magnitude Scaling + Jitter,4,50,126,1D-CNN,0.3007518796992481
-magnitude_scaling,Magnitude Scaling + Jitter,4,50,126,GRU,0.15789473684210525
-magnitude_scaling,Magnitude Scaling + Jitter,4,50,126,LSTM,0.05263157894736842
-magnitude_scaling,Magnitude Scaling + Jitter,4,50,126,CNN-GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,4,50,126,RandomForest,0.8834586466165414
-magnitude_scaling,Magnitude Scaling + Jitter,5,50,145,1D-CNN,0.518796992481203
-magnitude_scaling,Magnitude Scaling + Jitter,5,50,145,GRU,0.08270676691729323
-magnitude_scaling,Magnitude Scaling + Jitter,5,50,145,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,5,50,145,CNN-GRU,0.16541353383458646
-magnitude_scaling,Magnitude Scaling + Jitter,5,50,145,RandomForest,0.8270676691729323
-magnitude_scaling,Magnitude Scaling + Jitter,6,50,164,1D-CNN,0.6015037593984962
-magnitude_scaling,Magnitude Scaling + Jitter,6,50,164,GRU,0.09022556390977443
-magnitude_scaling,Magnitude Scaling + Jitter,6,50,164,LSTM,0.07894736842105263
-magnitude_scaling,Magnitude Scaling + Jitter,6,50,164,CNN-GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,6,50,164,RandomForest,0.8947368421052632
-magnitude_scaling,Magnitude Scaling + Jitter,7,50,183,1D-CNN,0.5714285714285714
-magnitude_scaling,Magnitude Scaling + Jitter,7,50,183,GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,7,50,183,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,7,50,183,CNN-GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,7,50,183,RandomForest,0.924812030075188
-magnitude_scaling,Magnitude Scaling + Jitter,8,50,202,1D-CNN,0.6466165413533834
-magnitude_scaling,Magnitude Scaling + Jitter,8,50,202,GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,8,50,202,LSTM,0.11278195488721804
-magnitude_scaling,Magnitude Scaling + Jitter,8,50,202,CNN-GRU,0.15789473684210525
-magnitude_scaling,Magnitude Scaling + Jitter,8,50,202,RandomForest,0.9323308270676691
-magnitude_scaling,Magnitude Scaling + Jitter,9,50,221,1D-CNN,0.6165413533834586
-magnitude_scaling,Magnitude Scaling + Jitter,9,50,221,GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,9,50,221,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,9,50,221,CNN-GRU,0.12030075187969924
-magnitude_scaling,Magnitude Scaling + Jitter,9,50,221,RandomForest,0.9473684210526315
-magnitude_scaling,Magnitude Scaling + Jitter,10,50,240,1D-CNN,0.7631578947368421
-magnitude_scaling,Magnitude Scaling + Jitter,10,50,240,GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,10,50,240,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,10,50,240,CNN-GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,10,50,240,RandomForest,0.9135338345864662
-magnitude_scaling,Magnitude Scaling + Jitter,11,55,264,1D-CNN,0.6879699248120301
-magnitude_scaling,Magnitude Scaling + Jitter,11,55,264,GRU,0.11654135338345864
-magnitude_scaling,Magnitude Scaling + Jitter,11,55,264,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,11,55,264,CNN-GRU,0.12030075187969924
-magnitude_scaling,Magnitude Scaling + Jitter,11,55,264,RandomForest,0.9285714285714286
-magnitude_scaling,Magnitude Scaling + Jitter,12,60,288,1D-CNN,0.7255639097744361
-magnitude_scaling,Magnitude Scaling + Jitter,12,60,288,GRU,0.13533834586466165
-magnitude_scaling,Magnitude Scaling + Jitter,12,60,288,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,12,60,288,CNN-GRU,0.19924812030075187
-magnitude_scaling,Magnitude Scaling + Jitter,12,60,288,RandomForest,0.981203007518797
-magnitude_scaling,Magnitude Scaling + Jitter,13,65,312,1D-CNN,0.7030075187969925
-magnitude_scaling,Magnitude Scaling + Jitter,13,65,312,GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,13,65,312,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,13,65,312,CNN-GRU,0.15789473684210525
-magnitude_scaling,Magnitude Scaling + Jitter,13,65,312,RandomForest,0.9624060150375939
-magnitude_scaling,Magnitude Scaling + Jitter,14,70,336,1D-CNN,0.7781954887218046
-magnitude_scaling,Magnitude Scaling + Jitter,14,70,336,GRU,0.10902255639097744
-magnitude_scaling,Magnitude Scaling + Jitter,14,70,336,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,14,70,336,CNN-GRU,0.22556390977443608
-magnitude_scaling,Magnitude Scaling + Jitter,14,70,336,RandomForest,0.9699248120300752
-magnitude_scaling,Magnitude Scaling + Jitter,15,75,360,1D-CNN,0.7443609022556391
-magnitude_scaling,Magnitude Scaling + Jitter,15,75,360,GRU,0.11654135338345864
-magnitude_scaling,Magnitude Scaling + Jitter,15,75,360,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,15,75,360,CNN-GRU,0.19172932330827067
-magnitude_scaling,Magnitude Scaling + Jitter,15,75,360,RandomForest,0.9548872180451128
-magnitude_scaling,Magnitude Scaling + Jitter,16,80,384,1D-CNN,0.7669172932330827
-magnitude_scaling,Magnitude Scaling + Jitter,16,80,384,GRU,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,16,80,384,LSTM,0.09774436090225563
-magnitude_scaling,Magnitude Scaling + Jitter,16,80,384,CNN-GRU,0.21428571428571427
-magnitude_scaling,Magnitude Scaling + Jitter,16,80,384,RandomForest,0.9285714285714286
-magnitude_scaling,Magnitude Scaling + Jitter,17,85,408,1D-CNN,0.8157894736842105
-magnitude_scaling,Magnitude Scaling + Jitter,17,85,408,GRU,0.13533834586466165
-magnitude_scaling,Magnitude Scaling + Jitter,17,85,408,LSTM,0.20676691729323307
-magnitude_scaling,Magnitude Scaling + Jitter,17,85,408,CNN-GRU,0.30451127819548873
-magnitude_scaling,Magnitude Scaling + Jitter,17,85,408,RandomForest,0.9398496240601504
-magnitude_scaling,Magnitude Scaling + Jitter,18,90,432,1D-CNN,0.7706766917293233
-magnitude_scaling,Magnitude Scaling + Jitter,18,90,432,GRU,0.18796992481203006
-magnitude_scaling,Magnitude Scaling + Jitter,18,90,432,LSTM,0.05263157894736842
-magnitude_scaling,Magnitude Scaling + Jitter,18,90,432,CNN-GRU,0.33458646616541354
-magnitude_scaling,Magnitude Scaling + Jitter,18,90,432,RandomForest,0.9398496240601504
-magnitude_scaling,Magnitude Scaling + Jitter,19,95,456,1D-CNN,0.8007518796992481
-magnitude_scaling,Magnitude Scaling + Jitter,19,95,456,GRU,0.12781954887218044
-magnitude_scaling,Magnitude Scaling + Jitter,19,95,456,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,19,95,456,CNN-GRU,0.3609022556390977
-magnitude_scaling,Magnitude Scaling + Jitter,19,95,456,RandomForest,0.9548872180451128
-magnitude_scaling,Magnitude Scaling + Jitter,20,100,480,1D-CNN,0.7781954887218046
-magnitude_scaling,Magnitude Scaling + Jitter,20,100,480,GRU,0.2669172932330827
-magnitude_scaling,Magnitude Scaling + Jitter,20,100,480,LSTM,0.10526315789473684
-magnitude_scaling,Magnitude Scaling + Jitter,20,100,480,CNN-GRU,0.39097744360902253
-magnitude_scaling,Magnitude Scaling + Jitter,20,100,480,RandomForest,0.9548872180451128
-time_shift,Time Shift + Jitter,3,50,107,1D-CNN,0.4323308270676692
-time_shift,Time Shift + Jitter,3,50,107,GRU,0.05263157894736842
-time_shift,Time Shift + Jitter,3,50,107,LSTM,0.05263157894736842
-time_shift,Time Shift + Jitter,3,50,107,CNN-GRU,0.07518796992481203
-time_shift,Time Shift + Jitter,3,50,107,RandomForest,0.7593984962406015
-time_shift,Time Shift + Jitter,4,50,126,1D-CNN,0.39473684210526316
-time_shift,Time Shift + Jitter,4,50,126,GRU,0.12406015037593984
-time_shift,Time Shift + Jitter,4,50,126,LSTM,0.05263157894736842
-time_shift,Time Shift + Jitter,4,50,126,CNN-GRU,0.10526315789473684
-time_shift,Time Shift + Jitter,4,50,126,RandomForest,0.8458646616541353
-time_shift,Time Shift + Jitter,5,50,145,1D-CNN,0.5
-time_shift,Time Shift + Jitter,5,50,145,GRU,0.10150375939849623
-time_shift,Time Shift + Jitter,5,50,145,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,5,50,145,CNN-GRU,0.10526315789473684
-time_shift,Time Shift + Jitter,5,50,145,RandomForest,0.8872180451127819
-time_shift,Time Shift + Jitter,6,50,164,1D-CNN,0.575187969924812
-time_shift,Time Shift + Jitter,6,50,164,GRU,0.10902255639097744
-time_shift,Time Shift + Jitter,6,50,164,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,6,50,164,CNN-GRU,0.14285714285714285
-time_shift,Time Shift + Jitter,6,50,164,RandomForest,0.8909774436090225
-time_shift,Time Shift + Jitter,7,50,183,1D-CNN,0.5977443609022557
-time_shift,Time Shift + Jitter,7,50,183,GRU,0.10526315789473684
-time_shift,Time Shift + Jitter,7,50,183,LSTM,0.12781954887218044
-time_shift,Time Shift + Jitter,7,50,183,CNN-GRU,0.13533834586466165
-time_shift,Time Shift + Jitter,7,50,183,RandomForest,0.9135338345864662
-time_shift,Time Shift + Jitter,8,50,202,1D-CNN,0.5977443609022557
-time_shift,Time Shift + Jitter,8,50,202,GRU,0.10526315789473684
-time_shift,Time Shift + Jitter,8,50,202,LSTM,0.12030075187969924
-time_shift,Time Shift + Jitter,8,50,202,CNN-GRU,0.12030075187969924
-time_shift,Time Shift + Jitter,8,50,202,RandomForest,0.8834586466165414
-time_shift,Time Shift + Jitter,9,50,221,1D-CNN,0.6766917293233082
-time_shift,Time Shift + Jitter,9,50,221,GRU,0.10526315789473684
-time_shift,Time Shift + Jitter,9,50,221,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,9,50,221,CNN-GRU,0.13533834586466165
-time_shift,Time Shift + Jitter,9,50,221,RandomForest,0.943609022556391
-time_shift,Time Shift + Jitter,10,50,240,1D-CNN,0.6766917293233082
-time_shift,Time Shift + Jitter,10,50,240,GRU,0.11278195488721804
-time_shift,Time Shift + Jitter,10,50,240,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,10,50,240,CNN-GRU,0.12406015037593984
-time_shift,Time Shift + Jitter,10,50,240,RandomForest,0.9135338345864662
-time_shift,Time Shift + Jitter,11,55,264,1D-CNN,0.7744360902255639
-time_shift,Time Shift + Jitter,11,55,264,GRU,0.10526315789473684
-time_shift,Time Shift + Jitter,11,55,264,LSTM,0.11278195488721804
-time_shift,Time Shift + Jitter,11,55,264,CNN-GRU,0.15037593984962405
-time_shift,Time Shift + Jitter,11,55,264,RandomForest,0.9285714285714286
-time_shift,Time Shift + Jitter,12,60,288,1D-CNN,0.8157894736842105
-time_shift,Time Shift + Jitter,12,60,288,GRU,0.10526315789473684
-time_shift,Time Shift + Jitter,12,60,288,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,12,60,288,CNN-GRU,0.15413533834586465
-time_shift,Time Shift + Jitter,12,60,288,RandomForest,0.9586466165413534
-time_shift,Time Shift + Jitter,13,65,312,1D-CNN,0.8157894736842105
-time_shift,Time Shift + Jitter,13,65,312,GRU,0.13533834586466165
-time_shift,Time Shift + Jitter,13,65,312,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,13,65,312,CNN-GRU,0.15789473684210525
-time_shift,Time Shift + Jitter,13,65,312,RandomForest,0.9323308270676691
-time_shift,Time Shift + Jitter,14,70,336,1D-CNN,0.8308270676691729
-time_shift,Time Shift + Jitter,14,70,336,GRU,0.10902255639097744
-time_shift,Time Shift + Jitter,14,70,336,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,14,70,336,CNN-GRU,0.20300751879699247
-time_shift,Time Shift + Jitter,14,70,336,RandomForest,0.9699248120300752
-time_shift,Time Shift + Jitter,15,75,360,1D-CNN,0.7744360902255639
-time_shift,Time Shift + Jitter,15,75,360,GRU,0.11278195488721804
-time_shift,Time Shift + Jitter,15,75,360,LSTM,0.09774436090225563
-time_shift,Time Shift + Jitter,15,75,360,CNN-GRU,0.2706766917293233
-time_shift,Time Shift + Jitter,15,75,360,RandomForest,0.924812030075188
-time_shift,Time Shift + Jitter,16,80,384,1D-CNN,0.8157894736842105
-time_shift,Time Shift + Jitter,16,80,384,GRU,0.19548872180451127
-time_shift,Time Shift + Jitter,16,80,384,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,16,80,384,CNN-GRU,0.2744360902255639
-time_shift,Time Shift + Jitter,16,80,384,RandomForest,0.924812030075188
-time_shift,Time Shift + Jitter,17,85,408,1D-CNN,0.8796992481203008
-time_shift,Time Shift + Jitter,17,85,408,GRU,0.13909774436090225
-time_shift,Time Shift + Jitter,17,85,408,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,17,85,408,CNN-GRU,0.2744360902255639
-time_shift,Time Shift + Jitter,17,85,408,RandomForest,0.943609022556391
-time_shift,Time Shift + Jitter,18,90,432,1D-CNN,0.8045112781954887
-time_shift,Time Shift + Jitter,18,90,432,GRU,0.14661654135338345
-time_shift,Time Shift + Jitter,18,90,432,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,18,90,432,CNN-GRU,0.2894736842105263
-time_shift,Time Shift + Jitter,18,90,432,RandomForest,0.9661654135338346
-time_shift,Time Shift + Jitter,19,95,456,1D-CNN,0.8909774436090225
-time_shift,Time Shift + Jitter,19,95,456,GRU,0.19548872180451127
-time_shift,Time Shift + Jitter,19,95,456,LSTM,0.10526315789473684
-time_shift,Time Shift + Jitter,19,95,456,CNN-GRU,0.31954887218045114
-time_shift,Time Shift + Jitter,19,95,456,RandomForest,0.9699248120300752
-time_shift,Time Shift + Jitter,20,100,480,1D-CNN,0.7218045112781954
-time_shift,Time Shift + Jitter,20,100,480,GRU,0.18045112781954886
-time_shift,Time Shift + Jitter,20,100,480,LSTM,0.21052631578947367
-time_shift,Time Shift + Jitter,20,100,480,CNN-GRU,0.37969924812030076
-time_shift,Time Shift + Jitter,20,100,480,RandomForest,0.9624060150375939
-time_warp,Time Warping + Jitter,3,50,107,1D-CNN,0.5338345864661654
-time_warp,Time Warping + Jitter,3,50,107,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,3,50,107,LSTM,0.05263157894736842
-time_warp,Time Warping + Jitter,3,50,107,CNN-GRU,0.13533834586466165
-time_warp,Time Warping + Jitter,3,50,107,RandomForest,0.7744360902255639
-time_warp,Time Warping + Jitter,4,50,126,1D-CNN,0.40225563909774437
-time_warp,Time Warping + Jitter,4,50,126,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,4,50,126,LSTM,0.05263157894736842
-time_warp,Time Warping + Jitter,4,50,126,CNN-GRU,0.13909774436090225
-time_warp,Time Warping + Jitter,4,50,126,RandomForest,0.8421052631578947
-time_warp,Time Warping + Jitter,5,50,145,1D-CNN,0.49624060150375937
-time_warp,Time Warping + Jitter,5,50,145,GRU,0.08270676691729323
-time_warp,Time Warping + Jitter,5,50,145,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,5,50,145,CNN-GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,5,50,145,RandomForest,0.8533834586466166
-time_warp,Time Warping + Jitter,6,50,164,1D-CNN,0.6127819548872181
-time_warp,Time Warping + Jitter,6,50,164,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,6,50,164,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,6,50,164,CNN-GRU,0.11654135338345864
-time_warp,Time Warping + Jitter,6,50,164,RandomForest,0.9022556390977443
-time_warp,Time Warping + Jitter,7,50,183,1D-CNN,0.5601503759398496
-time_warp,Time Warping + Jitter,7,50,183,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,7,50,183,LSTM,0.11278195488721804
-time_warp,Time Warping + Jitter,7,50,183,CNN-GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,7,50,183,RandomForest,0.924812030075188
-time_warp,Time Warping + Jitter,8,50,202,1D-CNN,0.6203007518796992
-time_warp,Time Warping + Jitter,8,50,202,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,8,50,202,LSTM,0.14661654135338345
-time_warp,Time Warping + Jitter,8,50,202,CNN-GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,8,50,202,RandomForest,0.9022556390977443
-time_warp,Time Warping + Jitter,9,50,221,1D-CNN,0.6541353383458647
-time_warp,Time Warping + Jitter,9,50,221,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,9,50,221,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,9,50,221,CNN-GRU,0.12030075187969924
-time_warp,Time Warping + Jitter,9,50,221,RandomForest,0.9548872180451128
-time_warp,Time Warping + Jitter,10,50,240,1D-CNN,0.7443609022556391
-time_warp,Time Warping + Jitter,10,50,240,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,10,50,240,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,10,50,240,CNN-GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,10,50,240,RandomForest,0.9135338345864662
-time_warp,Time Warping + Jitter,11,55,264,1D-CNN,0.7706766917293233
-time_warp,Time Warping + Jitter,11,55,264,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,11,55,264,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,11,55,264,CNN-GRU,0.14661654135338345
-time_warp,Time Warping + Jitter,11,55,264,RandomForest,0.9473684210526315
-time_warp,Time Warping + Jitter,12,60,288,1D-CNN,0.7481203007518797
-time_warp,Time Warping + Jitter,12,60,288,GRU,0.11654135338345864
-time_warp,Time Warping + Jitter,12,60,288,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,12,60,288,CNN-GRU,0.19924812030075187
-time_warp,Time Warping + Jitter,12,60,288,RandomForest,0.9699248120300752
-time_warp,Time Warping + Jitter,13,65,312,1D-CNN,0.8609022556390977
-time_warp,Time Warping + Jitter,13,65,312,GRU,0.15037593984962405
-time_warp,Time Warping + Jitter,13,65,312,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,13,65,312,CNN-GRU,0.14661654135338345
-time_warp,Time Warping + Jitter,13,65,312,RandomForest,0.9473684210526315
-time_warp,Time Warping + Jitter,14,70,336,1D-CNN,0.7819548872180451
-time_warp,Time Warping + Jitter,14,70,336,GRU,0.13909774436090225
-time_warp,Time Warping + Jitter,14,70,336,LSTM,0.13157894736842105
-time_warp,Time Warping + Jitter,14,70,336,CNN-GRU,0.16541353383458646
-time_warp,Time Warping + Jitter,14,70,336,RandomForest,0.9586466165413534
-time_warp,Time Warping + Jitter,15,75,360,1D-CNN,0.8421052631578947
-time_warp,Time Warping + Jitter,15,75,360,GRU,0.11654135338345864
-time_warp,Time Warping + Jitter,15,75,360,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,15,75,360,CNN-GRU,0.3082706766917293
-time_warp,Time Warping + Jitter,15,75,360,RandomForest,0.9548872180451128
-time_warp,Time Warping + Jitter,16,80,384,1D-CNN,0.8007518796992481
-time_warp,Time Warping + Jitter,16,80,384,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,16,80,384,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,16,80,384,CNN-GRU,0.3383458646616541
-time_warp,Time Warping + Jitter,16,80,384,RandomForest,0.924812030075188
-time_warp,Time Warping + Jitter,17,85,408,1D-CNN,0.7969924812030075
-time_warp,Time Warping + Jitter,17,85,408,GRU,0.12406015037593984
-time_warp,Time Warping + Jitter,17,85,408,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,17,85,408,CNN-GRU,0.36466165413533835
-time_warp,Time Warping + Jitter,17,85,408,RandomForest,0.9661654135338346
-time_warp,Time Warping + Jitter,18,90,432,1D-CNN,0.8759398496240601
-time_warp,Time Warping + Jitter,18,90,432,GRU,0.15789473684210525
-time_warp,Time Warping + Jitter,18,90,432,LSTM,0.15037593984962405
-time_warp,Time Warping + Jitter,18,90,432,CNN-GRU,0.38721804511278196
-time_warp,Time Warping + Jitter,18,90,432,RandomForest,0.9774436090225563
-time_warp,Time Warping + Jitter,19,95,456,1D-CNN,0.8120300751879699
-time_warp,Time Warping + Jitter,19,95,456,GRU,0.12030075187969924
-time_warp,Time Warping + Jitter,19,95,456,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,19,95,456,CNN-GRU,0.31203007518796994
-time_warp,Time Warping + Jitter,19,95,456,RandomForest,0.9586466165413534
-time_warp,Time Warping + Jitter,20,100,480,1D-CNN,0.868421052631579
-time_warp,Time Warping + Jitter,20,100,480,GRU,0.10526315789473684
-time_warp,Time Warping + Jitter,20,100,480,LSTM,0.10526315789473684
-time_warp,Time Warping + Jitter,20,100,480,CNN-GRU,0.34210526315789475
-time_warp,Time Warping + Jitter,20,100,480,RandomForest,0.943609022556391
-permutation,Permutation + Jitter,3,50,107,1D-CNN,0.37218045112781956
-permutation,Permutation + Jitter,3,50,107,GRU,0.05263157894736842
-permutation,Permutation + Jitter,3,50,107,LSTM,0.05263157894736842
-permutation,Permutation + Jitter,3,50,107,CNN-GRU,0.12781954887218044
-permutation,Permutation + Jitter,3,50,107,RandomForest,0.7518796992481203
-permutation,Permutation + Jitter,4,50,126,1D-CNN,0.39097744360902253
-permutation,Permutation + Jitter,4,50,126,GRU,0.10526315789473684
-permutation,Permutation + Jitter,4,50,126,LSTM,0.05263157894736842
-permutation,Permutation + Jitter,4,50,126,CNN-GRU,0.10902255639097744
-permutation,Permutation + Jitter,4,50,126,RandomForest,0.8383458646616542
-permutation,Permutation + Jitter,5,50,145,1D-CNN,0.5375939849624061
-permutation,Permutation + Jitter,5,50,145,GRU,0.17293233082706766
-permutation,Permutation + Jitter,5,50,145,LSTM,0.05263157894736842
-permutation,Permutation + Jitter,5,50,145,CNN-GRU,0.15789473684210525
-permutation,Permutation + Jitter,5,50,145,RandomForest,0.8646616541353384
-permutation,Permutation + Jitter,6,50,164,1D-CNN,0.6353383458646616
-permutation,Permutation + Jitter,6,50,164,GRU,0.08270676691729323
-permutation,Permutation + Jitter,6,50,164,LSTM,0.10526315789473684
-permutation,Permutation + Jitter,6,50,164,CNN-GRU,0.10526315789473684
-permutation,Permutation + Jitter,6,50,164,RandomForest,0.8834586466165414
-permutation,Permutation + Jitter,7,50,183,1D-CNN,0.5977443609022557
-permutation,Permutation + Jitter,7,50,183,GRU,0.10526315789473684
-permutation,Permutation + Jitter,7,50,183,LSTM,0.10526315789473684
-permutation,Permutation + Jitter,7,50,183,CNN-GRU,0.11654135338345864
-permutation,Permutation + Jitter,7,50,183,RandomForest,0.9135338345864662
-permutation,Permutation + Jitter,8,50,202,1D-CNN,0.6954887218045113
-permutation,Permutation + Jitter,8,50,202,GRU,0.10526315789473684
-permutation,Permutation + Jitter,8,50,202,LSTM,0.10526315789473684
-permutation,Permutation + Jitter,8,50,202,CNN-GRU,0.10526315789473684
-permutation,Permutation + Jitter,8,50,202,RandomForest,0.8834586466165414
-permutation,Permutation + Jitter,9,50,221,1D-CNN,0.6766917293233082
-permutation,Permutation + Jitter,9,50,221,GRU,0.10526315789473684
-permutation,Permutation + Jitter,9,50,221,LSTM,0.10526315789473684
-permutation,Permutation + Jitter,9,50,221,CNN-GRU,0.12781954887218044
-permutation,Permutation + Jitter,9,50,221,RandomForest,0.9511278195488722
-permutation,Permutation + Jitter,10,50,240,1D-CNN,0.6992481203007519
-permutation,Permutation + Jitter,10,50,240,GRU,0.10902255639097744
-permutation,Permutation + Jitter,10,50,240,LSTM,0.10526315789473684
-permutation,Permutation + Jitter,10,50,240,CNN-GRU,0.17669172932330826
-permutation,Permutation + Jitter,10,50,240,RandomForest,0.9323308270676691
-permutation,Permutation + Jitter,11,55,264,1D-CNN,0.6691729323308271
-permutation,Permutation + Jitter,11,55,264,GRU,0.10526315789473684
-permutation,Permutation + Jitter,11,55,264,LSTM,0.10526315789473684
-permutation,Permutation + Jitter,11,55,264,CNN-GRU,0.10902255639097744
-permutation,Permutation + Jitter,11,55,264,RandomForest,0.9172932330827067
-permutation,Permutation + Jitter,12,60,288,1D-CNN,0.7894736842105263
-permutation,Permutation + Jitter,12,60,288,GRU,0.11278195488721804
-permutation,Permutation + Jitter,12,60,288,LSTM,0.10526315789473684
-permutation,Permutation + Jitter,12,60,288,CNN-GRU,0.12030075187969924
-permutation,Permutation + Jitter,12,60,288,RandomForest,0.9661654135338346
-permutation,Permutation + Jitter,13,65,312,1D-CNN,0.849624060150376
-permutation,Permutation + Jitter,13,65,312,GRU,0.12406015037593984
-permutation,Permutation + Jitter,13,65,312,LSTM,0.11278195488721804
-permutation,Permutation + Jitter,13,65,312,CNN-GRU,0.17293233082706766
-permutation,Permutation + Jitter,13,65,312,RandomForest,0.9210526315789473
-permutation,Permutation + Jitter,14,70,336,1D-CNN,0.849624060150376
-permutation,Permutation + Jitter,14,70,336,GRU,0.13909774436090225
-permutation,Permutation + Jitter,14,70,336,LSTM,0.14661654135338345
-permutation,Permutation + Jitter,14,70,336,CNN-GRU,0.19924812030075187
-permutation,Permutation + Jitter,14,70,336,RandomForest,0.9624060150375939
-permutation,Permutation + Jitter,15,75,360,1D-CNN,0.8233082706766918
-permutation,Permutation + Jitter,15,75,360,GRU,0.13909774436090225
-permutation,Permutation + Jitter,15,75,360,LSTM,0.15037593984962405
-permutation,Permutation + Jitter,15,75,360,CNN-GRU,0.2857142857142857
-permutation,Permutation + Jitter,15,75,360,RandomForest,0.9172932330827067
-permutation,Permutation + Jitter,16,80,384,1D-CNN,0.8345864661654135
-permutation,Permutation + Jitter,16,80,384,GRU,0.12030075187969924
-permutation,Permutation + Jitter,16,80,384,LSTM,0.10526315789473684
-permutation,Permutation + Jitter,16,80,384,CNN-GRU,0.3533834586466165
-permutation,Permutation + Jitter,16,80,384,RandomForest,0.924812030075188
-permutation,Permutation + Jitter,17,85,408,1D-CNN,0.8270676691729323
-permutation,Permutation + Jitter,17,85,408,GRU,0.16917293233082706
-permutation,Permutation + Jitter,17,85,408,LSTM,0.13157894736842105
-permutation,Permutation + Jitter,17,85,408,CNN-GRU,0.39097744360902253
-permutation,Permutation + Jitter,17,85,408,RandomForest,0.9398496240601504
-permutation,Permutation + Jitter,18,90,432,1D-CNN,0.8759398496240601
-permutation,Permutation + Jitter,18,90,432,GRU,0.10902255639097744
-permutation,Permutation + Jitter,18,90,432,LSTM,0.13533834586466165
-permutation,Permutation + Jitter,18,90,432,CNN-GRU,0.32706766917293234
-permutation,Permutation + Jitter,18,90,432,RandomForest,0.9586466165413534
-permutation,Permutation + Jitter,19,95,456,1D-CNN,0.8571428571428571
-permutation,Permutation + Jitter,19,95,456,GRU,0.10526315789473684
-permutation,Permutation + Jitter,19,95,456,LSTM,0.09774436090225563
-permutation,Permutation + Jitter,19,95,456,CNN-GRU,0.39097744360902253
-permutation,Permutation + Jitter,19,95,456,RandomForest,0.9586466165413534
-permutation,Permutation + Jitter,20,100,480,1D-CNN,0.868421052631579
-permutation,Permutation + Jitter,20,100,480,GRU,0.18045112781954886
-permutation,Permutation + Jitter,20,100,480,LSTM,0.10526315789473684
-permutation,Permutation + Jitter,20,100,480,CNN-GRU,0.3383458646616541
-permutation,Permutation + Jitter,20,100,480,RandomForest,0.9548872180451128
+method,method_label,seed_per_class,seed_samples,generated_total,train_size_augmented,model,accuracy
+mixup_jitter,Mixup + Jitter,3,57,190,247,1D-CNN,0.7406015037593985
+mixup_jitter,Mixup + Jitter,3,57,190,247,GRU,0.11278195488721804
+mixup_jitter,Mixup + Jitter,3,57,190,247,LSTM,0.15789473684210525
+mixup_jitter,Mixup + Jitter,3,57,190,247,CNN-GRU,0.15037593984962405
+mixup_jitter,Mixup + Jitter,3,57,190,247,RandomForest,0.7894736842105263
+magnitude_scaling,Magnitude Scaling + Jitter,3,57,190,247,1D-CNN,0.6278195488721805
+magnitude_scaling,Magnitude Scaling + Jitter,3,57,190,247,GRU,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,3,57,190,247,LSTM,0.11654135338345864
+magnitude_scaling,Magnitude Scaling + Jitter,3,57,190,247,CNN-GRU,0.23308270676691728
+magnitude_scaling,Magnitude Scaling + Jitter,3,57,190,247,RandomForest,0.7781954887218046
+time_shift,Time Shift + Jitter,3,57,190,247,1D-CNN,0.6954887218045113
+time_shift,Time Shift + Jitter,3,57,190,247,GRU,0.10526315789473684
+time_shift,Time Shift + Jitter,3,57,190,247,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,3,57,190,247,CNN-GRU,0.12781954887218044
+time_shift,Time Shift + Jitter,3,57,190,247,RandomForest,0.8383458646616542
+time_warp,Time Warping + Jitter,3,57,190,247,1D-CNN,0.6954887218045113
+time_warp,Time Warping + Jitter,3,57,190,247,GRU,0.10526315789473684
+time_warp,Time Warping + Jitter,3,57,190,247,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,3,57,190,247,CNN-GRU,0.14661654135338345
+time_warp,Time Warping + Jitter,3,57,190,247,RandomForest,0.7669172932330827
+permutation,Permutation + Jitter,3,57,190,247,1D-CNN,0.7218045112781954
+permutation,Permutation + Jitter,3,57,190,247,GRU,0.11654135338345864
+permutation,Permutation + Jitter,3,57,190,247,LSTM,0.11278195488721804
+permutation,Permutation + Jitter,3,57,190,247,CNN-GRU,0.10526315789473684
+permutation,Permutation + Jitter,3,57,190,247,RandomForest,0.7819548872180451
+mixup_jitter,Mixup + Jitter,4,76,190,266,1D-CNN,0.8045112781954887
+mixup_jitter,Mixup + Jitter,4,76,190,266,GRU,0.11278195488721804
+mixup_jitter,Mixup + Jitter,4,76,190,266,LSTM,0.10526315789473684
+mixup_jitter,Mixup + Jitter,4,76,190,266,CNN-GRU,0.22932330827067668
+mixup_jitter,Mixup + Jitter,4,76,190,266,RandomForest,0.8458646616541353
+magnitude_scaling,Magnitude Scaling + Jitter,4,76,190,266,1D-CNN,0.6390977443609023
+magnitude_scaling,Magnitude Scaling + Jitter,4,76,190,266,GRU,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,4,76,190,266,LSTM,0.09398496240601503
+magnitude_scaling,Magnitude Scaling + Jitter,4,76,190,266,CNN-GRU,0.12406015037593984
+magnitude_scaling,Magnitude Scaling + Jitter,4,76,190,266,RandomForest,0.8157894736842105
+time_shift,Time Shift + Jitter,4,76,190,266,1D-CNN,0.8233082706766918
+time_shift,Time Shift + Jitter,4,76,190,266,GRU,0.10526315789473684
+time_shift,Time Shift + Jitter,4,76,190,266,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,4,76,190,266,CNN-GRU,0.20300751879699247
+time_shift,Time Shift + Jitter,4,76,190,266,RandomForest,0.8421052631578947
+time_warp,Time Warping + Jitter,4,76,190,266,1D-CNN,0.6842105263157895
+time_warp,Time Warping + Jitter,4,76,190,266,GRU,0.12406015037593984
+time_warp,Time Warping + Jitter,4,76,190,266,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,4,76,190,266,CNN-GRU,0.16541353383458646
+time_warp,Time Warping + Jitter,4,76,190,266,RandomForest,0.8421052631578947
+permutation,Permutation + Jitter,4,76,190,266,1D-CNN,0.8195488721804511
+permutation,Permutation + Jitter,4,76,190,266,GRU,0.10526315789473684
+permutation,Permutation + Jitter,4,76,190,266,LSTM,0.07518796992481203
+permutation,Permutation + Jitter,4,76,190,266,CNN-GRU,0.14661654135338345
+permutation,Permutation + Jitter,4,76,190,266,RandomForest,0.8270676691729323
+mixup_jitter,Mixup + Jitter,5,95,190,285,1D-CNN,0.849624060150376
+mixup_jitter,Mixup + Jitter,5,95,190,285,GRU,0.16541353383458646
+mixup_jitter,Mixup + Jitter,5,95,190,285,LSTM,0.10526315789473684
+mixup_jitter,Mixup + Jitter,5,95,190,285,CNN-GRU,0.13909774436090225
+mixup_jitter,Mixup + Jitter,5,95,190,285,RandomForest,0.8909774436090225
+magnitude_scaling,Magnitude Scaling + Jitter,5,95,190,285,1D-CNN,0.6917293233082706
+magnitude_scaling,Magnitude Scaling + Jitter,5,95,190,285,GRU,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,5,95,190,285,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,5,95,190,285,CNN-GRU,0.16917293233082706
+magnitude_scaling,Magnitude Scaling + Jitter,5,95,190,285,RandomForest,0.8571428571428571
+time_shift,Time Shift + Jitter,5,95,190,285,1D-CNN,0.8458646616541353
+time_shift,Time Shift + Jitter,5,95,190,285,GRU,0.10526315789473684
+time_shift,Time Shift + Jitter,5,95,190,285,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,5,95,190,285,CNN-GRU,0.19548872180451127
+time_shift,Time Shift + Jitter,5,95,190,285,RandomForest,0.868421052631579
+time_warp,Time Warping + Jitter,5,95,190,285,1D-CNN,0.7556390977443609
+time_warp,Time Warping + Jitter,5,95,190,285,GRU,0.15413533834586465
+time_warp,Time Warping + Jitter,5,95,190,285,LSTM,0.16165413533834586
+time_warp,Time Warping + Jitter,5,95,190,285,CNN-GRU,0.16917293233082706
+time_warp,Time Warping + Jitter,5,95,190,285,RandomForest,0.8421052631578947
+permutation,Permutation + Jitter,5,95,190,285,1D-CNN,0.8270676691729323
+permutation,Permutation + Jitter,5,95,190,285,GRU,0.11278195488721804
+permutation,Permutation + Jitter,5,95,190,285,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,5,95,190,285,CNN-GRU,0.16917293233082706
+permutation,Permutation + Jitter,5,95,190,285,RandomForest,0.8834586466165414
+mixup_jitter,Mixup + Jitter,6,114,190,304,1D-CNN,0.7593984962406015
+mixup_jitter,Mixup + Jitter,6,114,190,304,GRU,0.13909774436090225
+mixup_jitter,Mixup + Jitter,6,114,190,304,LSTM,0.10526315789473684
+mixup_jitter,Mixup + Jitter,6,114,190,304,CNN-GRU,0.15789473684210525
+mixup_jitter,Mixup + Jitter,6,114,190,304,RandomForest,0.868421052631579
+magnitude_scaling,Magnitude Scaling + Jitter,6,114,190,304,1D-CNN,0.6428571428571429
+magnitude_scaling,Magnitude Scaling + Jitter,6,114,190,304,GRU,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,6,114,190,304,LSTM,0.05263157894736842
+magnitude_scaling,Magnitude Scaling + Jitter,6,114,190,304,CNN-GRU,0.18796992481203006
+magnitude_scaling,Magnitude Scaling + Jitter,6,114,190,304,RandomForest,0.868421052631579
+time_shift,Time Shift + Jitter,6,114,190,304,1D-CNN,0.8045112781954887
+time_shift,Time Shift + Jitter,6,114,190,304,GRU,0.10526315789473684
+time_shift,Time Shift + Jitter,6,114,190,304,LSTM,0.09774436090225563
+time_shift,Time Shift + Jitter,6,114,190,304,CNN-GRU,0.12781954887218044
+time_shift,Time Shift + Jitter,6,114,190,304,RandomForest,0.8796992481203008
+time_warp,Time Warping + Jitter,6,114,190,304,1D-CNN,0.8007518796992481
+time_warp,Time Warping + Jitter,6,114,190,304,GRU,0.10526315789473684
+time_warp,Time Warping + Jitter,6,114,190,304,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,6,114,190,304,CNN-GRU,0.15413533834586465
+time_warp,Time Warping + Jitter,6,114,190,304,RandomForest,0.868421052631579
+permutation,Permutation + Jitter,6,114,190,304,1D-CNN,0.7255639097744361
+permutation,Permutation + Jitter,6,114,190,304,GRU,0.12406015037593984
+permutation,Permutation + Jitter,6,114,190,304,LSTM,0.13533834586466165
+permutation,Permutation + Jitter,6,114,190,304,CNN-GRU,0.22556390977443608
+permutation,Permutation + Jitter,6,114,190,304,RandomForest,0.8834586466165414
+mixup_jitter,Mixup + Jitter,7,133,190,323,1D-CNN,0.8082706766917294
+mixup_jitter,Mixup + Jitter,7,133,190,323,GRU,0.11654135338345864
+mixup_jitter,Mixup + Jitter,7,133,190,323,LSTM,0.10526315789473684
+mixup_jitter,Mixup + Jitter,7,133,190,323,CNN-GRU,0.16917293233082706
+mixup_jitter,Mixup + Jitter,7,133,190,323,RandomForest,0.9022556390977443
+magnitude_scaling,Magnitude Scaling + Jitter,7,133,190,323,1D-CNN,0.6917293233082706
+magnitude_scaling,Magnitude Scaling + Jitter,7,133,190,323,GRU,0.12406015037593984
+magnitude_scaling,Magnitude Scaling + Jitter,7,133,190,323,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,7,133,190,323,CNN-GRU,0.11278195488721804
+magnitude_scaling,Magnitude Scaling + Jitter,7,133,190,323,RandomForest,0.9097744360902256
+time_shift,Time Shift + Jitter,7,133,190,323,1D-CNN,0.8383458646616542
+time_shift,Time Shift + Jitter,7,133,190,323,GRU,0.11654135338345864
+time_shift,Time Shift + Jitter,7,133,190,323,LSTM,0.13909774436090225
+time_shift,Time Shift + Jitter,7,133,190,323,CNN-GRU,0.2518796992481203
+time_shift,Time Shift + Jitter,7,133,190,323,RandomForest,0.9060150375939849
+time_warp,Time Warping + Jitter,7,133,190,323,1D-CNN,0.7669172932330827
+time_warp,Time Warping + Jitter,7,133,190,323,GRU,0.16917293233082706
+time_warp,Time Warping + Jitter,7,133,190,323,LSTM,0.11278195488721804
+time_warp,Time Warping + Jitter,7,133,190,323,CNN-GRU,0.20300751879699247
+time_warp,Time Warping + Jitter,7,133,190,323,RandomForest,0.8947368421052632
+permutation,Permutation + Jitter,7,133,190,323,1D-CNN,0.8345864661654135
+permutation,Permutation + Jitter,7,133,190,323,GRU,0.11278195488721804
+permutation,Permutation + Jitter,7,133,190,323,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,7,133,190,323,CNN-GRU,0.19548872180451127
+permutation,Permutation + Jitter,7,133,190,323,RandomForest,0.8796992481203008
+mixup_jitter,Mixup + Jitter,8,152,190,342,1D-CNN,0.7330827067669173
+mixup_jitter,Mixup + Jitter,8,152,190,342,GRU,0.15413533834586465
+mixup_jitter,Mixup + Jitter,8,152,190,342,LSTM,0.09774436090225563
+mixup_jitter,Mixup + Jitter,8,152,190,342,CNN-GRU,0.3082706766917293
+mixup_jitter,Mixup + Jitter,8,152,190,342,RandomForest,0.8909774436090225
+magnitude_scaling,Magnitude Scaling + Jitter,8,152,190,342,1D-CNN,0.7330827067669173
+magnitude_scaling,Magnitude Scaling + Jitter,8,152,190,342,GRU,0.13533834586466165
+magnitude_scaling,Magnitude Scaling + Jitter,8,152,190,342,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,8,152,190,342,CNN-GRU,0.19924812030075187
+magnitude_scaling,Magnitude Scaling + Jitter,8,152,190,342,RandomForest,0.9210526315789473
+time_shift,Time Shift + Jitter,8,152,190,342,1D-CNN,0.7819548872180451
+time_shift,Time Shift + Jitter,8,152,190,342,GRU,0.11654135338345864
+time_shift,Time Shift + Jitter,8,152,190,342,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,8,152,190,342,CNN-GRU,0.2518796992481203
+time_shift,Time Shift + Jitter,8,152,190,342,RandomForest,0.9022556390977443
+time_warp,Time Warping + Jitter,8,152,190,342,1D-CNN,0.6842105263157895
+time_warp,Time Warping + Jitter,8,152,190,342,GRU,0.15037593984962405
+time_warp,Time Warping + Jitter,8,152,190,342,LSTM,0.09774436090225563
+time_warp,Time Warping + Jitter,8,152,190,342,CNN-GRU,0.2669172932330827
+time_warp,Time Warping + Jitter,8,152,190,342,RandomForest,0.9210526315789473
+permutation,Permutation + Jitter,8,152,190,342,1D-CNN,0.7443609022556391
+permutation,Permutation + Jitter,8,152,190,342,GRU,0.15037593984962405
+permutation,Permutation + Jitter,8,152,190,342,LSTM,0.13533834586466165
+permutation,Permutation + Jitter,8,152,190,342,CNN-GRU,0.21428571428571427
+permutation,Permutation + Jitter,8,152,190,342,RandomForest,0.8834586466165414
+mixup_jitter,Mixup + Jitter,9,171,190,361,1D-CNN,0.7969924812030075
+mixup_jitter,Mixup + Jitter,9,171,190,361,GRU,0.16165413533834586
+mixup_jitter,Mixup + Jitter,9,171,190,361,LSTM,0.13533834586466165
+mixup_jitter,Mixup + Jitter,9,171,190,361,CNN-GRU,0.2781954887218045
+mixup_jitter,Mixup + Jitter,9,171,190,361,RandomForest,0.868421052631579
+magnitude_scaling,Magnitude Scaling + Jitter,9,171,190,361,1D-CNN,0.706766917293233
+magnitude_scaling,Magnitude Scaling + Jitter,9,171,190,361,GRU,0.11278195488721804
+magnitude_scaling,Magnitude Scaling + Jitter,9,171,190,361,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,9,171,190,361,CNN-GRU,0.19548872180451127
+magnitude_scaling,Magnitude Scaling + Jitter,9,171,190,361,RandomForest,0.9097744360902256
+time_shift,Time Shift + Jitter,9,171,190,361,1D-CNN,0.8045112781954887
+time_shift,Time Shift + Jitter,9,171,190,361,GRU,0.09398496240601503
+time_shift,Time Shift + Jitter,9,171,190,361,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,9,171,190,361,CNN-GRU,0.2669172932330827
+time_shift,Time Shift + Jitter,9,171,190,361,RandomForest,0.9060150375939849
+time_warp,Time Warping + Jitter,9,171,190,361,1D-CNN,0.7894736842105263
+time_warp,Time Warping + Jitter,9,171,190,361,GRU,0.16165413533834586
+time_warp,Time Warping + Jitter,9,171,190,361,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,9,171,190,361,CNN-GRU,0.20300751879699247
+time_warp,Time Warping + Jitter,9,171,190,361,RandomForest,0.9511278195488722
+permutation,Permutation + Jitter,9,171,190,361,1D-CNN,0.8571428571428571
+permutation,Permutation + Jitter,9,171,190,361,GRU,0.10902255639097744
+permutation,Permutation + Jitter,9,171,190,361,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,9,171,190,361,CNN-GRU,0.2593984962406015
+permutation,Permutation + Jitter,9,171,190,361,RandomForest,0.9172932330827067
+mixup_jitter,Mixup + Jitter,10,190,190,380,1D-CNN,0.7894736842105263
+mixup_jitter,Mixup + Jitter,10,190,190,380,GRU,0.12030075187969924
+mixup_jitter,Mixup + Jitter,10,190,190,380,LSTM,0.11654135338345864
+mixup_jitter,Mixup + Jitter,10,190,190,380,CNN-GRU,0.38345864661654133
+mixup_jitter,Mixup + Jitter,10,190,190,380,RandomForest,0.9060150375939849
+magnitude_scaling,Magnitude Scaling + Jitter,10,190,190,380,1D-CNN,0.7894736842105263
+magnitude_scaling,Magnitude Scaling + Jitter,10,190,190,380,GRU,0.11654135338345864
+magnitude_scaling,Magnitude Scaling + Jitter,10,190,190,380,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,10,190,190,380,CNN-GRU,0.29699248120300753
+magnitude_scaling,Magnitude Scaling + Jitter,10,190,190,380,RandomForest,0.9060150375939849
+time_shift,Time Shift + Jitter,10,190,190,380,1D-CNN,0.8571428571428571
+time_shift,Time Shift + Jitter,10,190,190,380,GRU,0.11278195488721804
+time_shift,Time Shift + Jitter,10,190,190,380,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,10,190,190,380,CNN-GRU,0.3157894736842105
+time_shift,Time Shift + Jitter,10,190,190,380,RandomForest,0.9323308270676691
+time_warp,Time Warping + Jitter,10,190,190,380,1D-CNN,0.650375939849624
+time_warp,Time Warping + Jitter,10,190,190,380,GRU,0.12781954887218044
+time_warp,Time Warping + Jitter,10,190,190,380,LSTM,0.05263157894736842
+time_warp,Time Warping + Jitter,10,190,190,380,CNN-GRU,0.2894736842105263
+time_warp,Time Warping + Jitter,10,190,190,380,RandomForest,0.9172932330827067
+permutation,Permutation + Jitter,10,190,190,380,1D-CNN,0.7631578947368421
+permutation,Permutation + Jitter,10,190,190,380,GRU,0.12406015037593984
+permutation,Permutation + Jitter,10,190,190,380,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,10,190,190,380,CNN-GRU,0.34962406015037595
+permutation,Permutation + Jitter,10,190,190,380,RandomForest,0.9022556390977443
+mixup_jitter,Mixup + Jitter,11,209,190,399,1D-CNN,0.8045112781954887
+mixup_jitter,Mixup + Jitter,11,209,190,399,GRU,0.18796992481203006
+mixup_jitter,Mixup + Jitter,11,209,190,399,LSTM,0.11278195488721804
+mixup_jitter,Mixup + Jitter,11,209,190,399,CNN-GRU,0.37593984962406013
+mixup_jitter,Mixup + Jitter,11,209,190,399,RandomForest,0.9022556390977443
+magnitude_scaling,Magnitude Scaling + Jitter,11,209,190,399,1D-CNN,0.7368421052631579
+magnitude_scaling,Magnitude Scaling + Jitter,11,209,190,399,GRU,0.10902255639097744
+magnitude_scaling,Magnitude Scaling + Jitter,11,209,190,399,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,11,209,190,399,CNN-GRU,0.3082706766917293
+magnitude_scaling,Magnitude Scaling + Jitter,11,209,190,399,RandomForest,0.9210526315789473
+time_shift,Time Shift + Jitter,11,209,190,399,1D-CNN,0.8646616541353384
+time_shift,Time Shift + Jitter,11,209,190,399,GRU,0.11654135338345864
+time_shift,Time Shift + Jitter,11,209,190,399,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,11,209,190,399,CNN-GRU,0.2857142857142857
+time_shift,Time Shift + Jitter,11,209,190,399,RandomForest,0.9022556390977443
+time_warp,Time Warping + Jitter,11,209,190,399,1D-CNN,0.7556390977443609
+time_warp,Time Warping + Jitter,11,209,190,399,GRU,0.11654135338345864
+time_warp,Time Warping + Jitter,11,209,190,399,LSTM,0.07518796992481203
+time_warp,Time Warping + Jitter,11,209,190,399,CNN-GRU,0.29699248120300753
+time_warp,Time Warping + Jitter,11,209,190,399,RandomForest,0.8947368421052632
+permutation,Permutation + Jitter,11,209,190,399,1D-CNN,0.7142857142857143
+permutation,Permutation + Jitter,11,209,190,399,GRU,0.11278195488721804
+permutation,Permutation + Jitter,11,209,190,399,LSTM,0.12781954887218044
+permutation,Permutation + Jitter,11,209,190,399,CNN-GRU,0.30451127819548873
+permutation,Permutation + Jitter,11,209,190,399,RandomForest,0.8984962406015038
+mixup_jitter,Mixup + Jitter,12,228,190,418,1D-CNN,0.8157894736842105
+mixup_jitter,Mixup + Jitter,12,228,190,418,GRU,0.18796992481203006
+mixup_jitter,Mixup + Jitter,12,228,190,418,LSTM,0.13909774436090225
+mixup_jitter,Mixup + Jitter,12,228,190,418,CNN-GRU,0.35714285714285715
+mixup_jitter,Mixup + Jitter,12,228,190,418,RandomForest,0.9097744360902256
+magnitude_scaling,Magnitude Scaling + Jitter,12,228,190,418,1D-CNN,0.7556390977443609
+magnitude_scaling,Magnitude Scaling + Jitter,12,228,190,418,GRU,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,12,228,190,418,LSTM,0.15789473684210525
+magnitude_scaling,Magnitude Scaling + Jitter,12,228,190,418,CNN-GRU,0.2631578947368421
+magnitude_scaling,Magnitude Scaling + Jitter,12,228,190,418,RandomForest,0.9097744360902256
+time_shift,Time Shift + Jitter,12,228,190,418,1D-CNN,0.8195488721804511
+time_shift,Time Shift + Jitter,12,228,190,418,GRU,0.11278195488721804
+time_shift,Time Shift + Jitter,12,228,190,418,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,12,228,190,418,CNN-GRU,0.2781954887218045
+time_shift,Time Shift + Jitter,12,228,190,418,RandomForest,0.9210526315789473
+time_warp,Time Warping + Jitter,12,228,190,418,1D-CNN,0.8082706766917294
+time_warp,Time Warping + Jitter,12,228,190,418,GRU,0.16541353383458646
+time_warp,Time Warping + Jitter,12,228,190,418,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,12,228,190,418,CNN-GRU,0.23684210526315788
+time_warp,Time Warping + Jitter,12,228,190,418,RandomForest,0.9548872180451128
+permutation,Permutation + Jitter,12,228,190,418,1D-CNN,0.8383458646616542
+permutation,Permutation + Jitter,12,228,190,418,GRU,0.13533834586466165
+permutation,Permutation + Jitter,12,228,190,418,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,12,228,190,418,CNN-GRU,0.3007518796992481
+permutation,Permutation + Jitter,12,228,190,418,RandomForest,0.8872180451127819
+mixup_jitter,Mixup + Jitter,13,247,190,437,1D-CNN,0.7706766917293233
+mixup_jitter,Mixup + Jitter,13,247,190,437,GRU,0.11278195488721804
+mixup_jitter,Mixup + Jitter,13,247,190,437,LSTM,0.13533834586466165
+mixup_jitter,Mixup + Jitter,13,247,190,437,CNN-GRU,0.34210526315789475
+mixup_jitter,Mixup + Jitter,13,247,190,437,RandomForest,0.9323308270676691
+magnitude_scaling,Magnitude Scaling + Jitter,13,247,190,437,1D-CNN,0.7781954887218046
+magnitude_scaling,Magnitude Scaling + Jitter,13,247,190,437,GRU,0.13909774436090225
+magnitude_scaling,Magnitude Scaling + Jitter,13,247,190,437,LSTM,0.17293233082706766
+magnitude_scaling,Magnitude Scaling + Jitter,13,247,190,437,CNN-GRU,0.2706766917293233
+magnitude_scaling,Magnitude Scaling + Jitter,13,247,190,437,RandomForest,0.9398496240601504
+time_shift,Time Shift + Jitter,13,247,190,437,1D-CNN,0.8721804511278195
+time_shift,Time Shift + Jitter,13,247,190,437,GRU,0.11654135338345864
+time_shift,Time Shift + Jitter,13,247,190,437,LSTM,0.12781954887218044
+time_shift,Time Shift + Jitter,13,247,190,437,CNN-GRU,0.34962406015037595
+time_shift,Time Shift + Jitter,13,247,190,437,RandomForest,0.9360902255639098
+time_warp,Time Warping + Jitter,13,247,190,437,1D-CNN,0.8345864661654135
+time_warp,Time Warping + Jitter,13,247,190,437,GRU,0.16917293233082706
+time_warp,Time Warping + Jitter,13,247,190,437,LSTM,0.16917293233082706
+time_warp,Time Warping + Jitter,13,247,190,437,CNN-GRU,0.3308270676691729
+time_warp,Time Warping + Jitter,13,247,190,437,RandomForest,0.9135338345864662
+permutation,Permutation + Jitter,13,247,190,437,1D-CNN,0.8533834586466166
+permutation,Permutation + Jitter,13,247,190,437,GRU,0.17293233082706766
+permutation,Permutation + Jitter,13,247,190,437,LSTM,0.13533834586466165
+permutation,Permutation + Jitter,13,247,190,437,CNN-GRU,0.32706766917293234
+permutation,Permutation + Jitter,13,247,190,437,RandomForest,0.9360902255639098
+mixup_jitter,Mixup + Jitter,14,266,190,456,1D-CNN,0.868421052631579
+mixup_jitter,Mixup + Jitter,14,266,190,456,GRU,0.20300751879699247
+mixup_jitter,Mixup + Jitter,14,266,190,456,LSTM,0.10526315789473684
+mixup_jitter,Mixup + Jitter,14,266,190,456,CNN-GRU,0.29699248120300753
+mixup_jitter,Mixup + Jitter,14,266,190,456,RandomForest,0.9548872180451128
+magnitude_scaling,Magnitude Scaling + Jitter,14,266,190,456,1D-CNN,0.7744360902255639
+magnitude_scaling,Magnitude Scaling + Jitter,14,266,190,456,GRU,0.12030075187969924
+magnitude_scaling,Magnitude Scaling + Jitter,14,266,190,456,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,14,266,190,456,CNN-GRU,0.4323308270676692
+magnitude_scaling,Magnitude Scaling + Jitter,14,266,190,456,RandomForest,0.9511278195488722
+time_shift,Time Shift + Jitter,14,266,190,456,1D-CNN,0.849624060150376
+time_shift,Time Shift + Jitter,14,266,190,456,GRU,0.12406015037593984
+time_shift,Time Shift + Jitter,14,266,190,456,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,14,266,190,456,CNN-GRU,0.31954887218045114
+time_shift,Time Shift + Jitter,14,266,190,456,RandomForest,0.9360902255639098
+time_warp,Time Warping + Jitter,14,266,190,456,1D-CNN,0.8157894736842105
+time_warp,Time Warping + Jitter,14,266,190,456,GRU,0.11654135338345864
+time_warp,Time Warping + Jitter,14,266,190,456,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,14,266,190,456,CNN-GRU,0.2781954887218045
+time_warp,Time Warping + Jitter,14,266,190,456,RandomForest,0.9473684210526315
+permutation,Permutation + Jitter,14,266,190,456,1D-CNN,0.8157894736842105
+permutation,Permutation + Jitter,14,266,190,456,GRU,0.10526315789473684
+permutation,Permutation + Jitter,14,266,190,456,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,14,266,190,456,CNN-GRU,0.24812030075187969
+permutation,Permutation + Jitter,14,266,190,456,RandomForest,0.9398496240601504
+mixup_jitter,Mixup + Jitter,15,285,190,475,1D-CNN,0.6954887218045113
+mixup_jitter,Mixup + Jitter,15,285,190,475,GRU,0.15413533834586465
+mixup_jitter,Mixup + Jitter,15,285,190,475,LSTM,0.10526315789473684
+mixup_jitter,Mixup + Jitter,15,285,190,475,CNN-GRU,0.4473684210526316
+mixup_jitter,Mixup + Jitter,15,285,190,475,RandomForest,0.9135338345864662
+magnitude_scaling,Magnitude Scaling + Jitter,15,285,190,475,1D-CNN,0.8157894736842105
+magnitude_scaling,Magnitude Scaling + Jitter,15,285,190,475,GRU,0.2518796992481203
+magnitude_scaling,Magnitude Scaling + Jitter,15,285,190,475,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,15,285,190,475,CNN-GRU,0.39473684210526316
+magnitude_scaling,Magnitude Scaling + Jitter,15,285,190,475,RandomForest,0.9323308270676691
+time_shift,Time Shift + Jitter,15,285,190,475,1D-CNN,0.8120300751879699
+time_shift,Time Shift + Jitter,15,285,190,475,GRU,0.2932330827067669
+time_shift,Time Shift + Jitter,15,285,190,475,LSTM,0.15789473684210525
+time_shift,Time Shift + Jitter,15,285,190,475,CNN-GRU,0.37218045112781956
+time_shift,Time Shift + Jitter,15,285,190,475,RandomForest,0.9060150375939849
+time_warp,Time Warping + Jitter,15,285,190,475,1D-CNN,0.793233082706767
+time_warp,Time Warping + Jitter,15,285,190,475,GRU,0.20300751879699247
+time_warp,Time Warping + Jitter,15,285,190,475,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,15,285,190,475,CNN-GRU,0.3533834586466165
+time_warp,Time Warping + Jitter,15,285,190,475,RandomForest,0.943609022556391
+permutation,Permutation + Jitter,15,285,190,475,1D-CNN,0.8872180451127819
+permutation,Permutation + Jitter,15,285,190,475,GRU,0.20676691729323307
+permutation,Permutation + Jitter,15,285,190,475,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,15,285,190,475,CNN-GRU,0.3383458646616541
+permutation,Permutation + Jitter,15,285,190,475,RandomForest,0.9285714285714286
+mixup_jitter,Mixup + Jitter,16,304,190,494,1D-CNN,0.8007518796992481
+mixup_jitter,Mixup + Jitter,16,304,190,494,GRU,0.15413533834586465
+mixup_jitter,Mixup + Jitter,16,304,190,494,LSTM,0.18421052631578946
+mixup_jitter,Mixup + Jitter,16,304,190,494,CNN-GRU,0.37218045112781956
+mixup_jitter,Mixup + Jitter,16,304,190,494,RandomForest,0.9097744360902256
+magnitude_scaling,Magnitude Scaling + Jitter,16,304,190,494,1D-CNN,0.7669172932330827
+magnitude_scaling,Magnitude Scaling + Jitter,16,304,190,494,GRU,0.19548872180451127
+magnitude_scaling,Magnitude Scaling + Jitter,16,304,190,494,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,16,304,190,494,CNN-GRU,0.36466165413533835
+magnitude_scaling,Magnitude Scaling + Jitter,16,304,190,494,RandomForest,0.9285714285714286
+time_shift,Time Shift + Jitter,16,304,190,494,1D-CNN,0.8120300751879699
+time_shift,Time Shift + Jitter,16,304,190,494,GRU,0.10526315789473684
+time_shift,Time Shift + Jitter,16,304,190,494,LSTM,0.10150375939849623
+time_shift,Time Shift + Jitter,16,304,190,494,CNN-GRU,0.30451127819548873
+time_shift,Time Shift + Jitter,16,304,190,494,RandomForest,0.943609022556391
+time_warp,Time Warping + Jitter,16,304,190,494,1D-CNN,0.8796992481203008
+time_warp,Time Warping + Jitter,16,304,190,494,GRU,0.19548872180451127
+time_warp,Time Warping + Jitter,16,304,190,494,LSTM,0.15037593984962405
+time_warp,Time Warping + Jitter,16,304,190,494,CNN-GRU,0.3157894736842105
+time_warp,Time Warping + Jitter,16,304,190,494,RandomForest,0.943609022556391
+permutation,Permutation + Jitter,16,304,190,494,1D-CNN,0.8571428571428571
+permutation,Permutation + Jitter,16,304,190,494,GRU,0.2518796992481203
+permutation,Permutation + Jitter,16,304,190,494,LSTM,0.11654135338345864
+permutation,Permutation + Jitter,16,304,190,494,CNN-GRU,0.4699248120300752
+permutation,Permutation + Jitter,16,304,190,494,RandomForest,0.9323308270676691
+mixup_jitter,Mixup + Jitter,17,323,190,513,1D-CNN,0.7706766917293233
+mixup_jitter,Mixup + Jitter,17,323,190,513,GRU,0.13909774436090225
+mixup_jitter,Mixup + Jitter,17,323,190,513,LSTM,0.15789473684210525
+mixup_jitter,Mixup + Jitter,17,323,190,513,CNN-GRU,0.42857142857142855
+mixup_jitter,Mixup + Jitter,17,323,190,513,RandomForest,0.9323308270676691
+magnitude_scaling,Magnitude Scaling + Jitter,17,323,190,513,1D-CNN,0.7030075187969925
+magnitude_scaling,Magnitude Scaling + Jitter,17,323,190,513,GRU,0.16917293233082706
+magnitude_scaling,Magnitude Scaling + Jitter,17,323,190,513,LSTM,0.10526315789473684
+magnitude_scaling,Magnitude Scaling + Jitter,17,323,190,513,CNN-GRU,0.3609022556390977
+magnitude_scaling,Magnitude Scaling + Jitter,17,323,190,513,RandomForest,0.9360902255639098
+time_shift,Time Shift + Jitter,17,323,190,513,1D-CNN,0.8383458646616542
+time_shift,Time Shift + Jitter,17,323,190,513,GRU,0.2706766917293233
+time_shift,Time Shift + Jitter,17,323,190,513,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,17,323,190,513,CNN-GRU,0.45112781954887216
+time_shift,Time Shift + Jitter,17,323,190,513,RandomForest,0.9360902255639098
+time_warp,Time Warping + Jitter,17,323,190,513,1D-CNN,0.8721804511278195
+time_warp,Time Warping + Jitter,17,323,190,513,GRU,0.24812030075187969
+time_warp,Time Warping + Jitter,17,323,190,513,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,17,323,190,513,CNN-GRU,0.39473684210526316
+time_warp,Time Warping + Jitter,17,323,190,513,RandomForest,0.9323308270676691
+permutation,Permutation + Jitter,17,323,190,513,1D-CNN,0.8195488721804511
+permutation,Permutation + Jitter,17,323,190,513,GRU,0.10902255639097744
+permutation,Permutation + Jitter,17,323,190,513,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,17,323,190,513,CNN-GRU,0.3082706766917293
+permutation,Permutation + Jitter,17,323,190,513,RandomForest,0.9473684210526315
+mixup_jitter,Mixup + Jitter,18,342,190,532,1D-CNN,0.8796992481203008
+mixup_jitter,Mixup + Jitter,18,342,190,532,GRU,0.2669172932330827
+mixup_jitter,Mixup + Jitter,18,342,190,532,LSTM,0.11654135338345864
+mixup_jitter,Mixup + Jitter,18,342,190,532,CNN-GRU,0.42105263157894735
+mixup_jitter,Mixup + Jitter,18,342,190,532,RandomForest,0.9624060150375939
+magnitude_scaling,Magnitude Scaling + Jitter,18,342,190,532,1D-CNN,0.8308270676691729
+magnitude_scaling,Magnitude Scaling + Jitter,18,342,190,532,GRU,0.2593984962406015
+magnitude_scaling,Magnitude Scaling + Jitter,18,342,190,532,LSTM,0.16541353383458646
+magnitude_scaling,Magnitude Scaling + Jitter,18,342,190,532,CNN-GRU,0.45112781954887216
+magnitude_scaling,Magnitude Scaling + Jitter,18,342,190,532,RandomForest,0.981203007518797
+time_shift,Time Shift + Jitter,18,342,190,532,1D-CNN,0.8345864661654135
+time_shift,Time Shift + Jitter,18,342,190,532,GRU,0.17293233082706766
+time_shift,Time Shift + Jitter,18,342,190,532,LSTM,0.15037593984962405
+time_shift,Time Shift + Jitter,18,342,190,532,CNN-GRU,0.42857142857142855
+time_shift,Time Shift + Jitter,18,342,190,532,RandomForest,0.9699248120300752
+time_warp,Time Warping + Jitter,18,342,190,532,1D-CNN,0.7631578947368421
+time_warp,Time Warping + Jitter,18,342,190,532,GRU,0.20676691729323307
+time_warp,Time Warping + Jitter,18,342,190,532,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,18,342,190,532,CNN-GRU,0.3533834586466165
+time_warp,Time Warping + Jitter,18,342,190,532,RandomForest,0.9624060150375939
+permutation,Permutation + Jitter,18,342,190,532,1D-CNN,0.7819548872180451
+permutation,Permutation + Jitter,18,342,190,532,GRU,0.22932330827067668
+permutation,Permutation + Jitter,18,342,190,532,LSTM,0.11278195488721804
+permutation,Permutation + Jitter,18,342,190,532,CNN-GRU,0.42857142857142855
+permutation,Permutation + Jitter,18,342,190,532,RandomForest,0.9661654135338346
+mixup_jitter,Mixup + Jitter,19,361,190,551,1D-CNN,0.8045112781954887
+mixup_jitter,Mixup + Jitter,19,361,190,551,GRU,0.15789473684210525
+mixup_jitter,Mixup + Jitter,19,361,190,551,LSTM,0.10526315789473684
+mixup_jitter,Mixup + Jitter,19,361,190,551,CNN-GRU,0.3458646616541353
+mixup_jitter,Mixup + Jitter,19,361,190,551,RandomForest,0.9849624060150376
+magnitude_scaling,Magnitude Scaling + Jitter,19,361,190,551,1D-CNN,0.8195488721804511
+magnitude_scaling,Magnitude Scaling + Jitter,19,361,190,551,GRU,0.24436090225563908
+magnitude_scaling,Magnitude Scaling + Jitter,19,361,190,551,LSTM,0.22180451127819548
+magnitude_scaling,Magnitude Scaling + Jitter,19,361,190,551,CNN-GRU,0.44360902255639095
+magnitude_scaling,Magnitude Scaling + Jitter,19,361,190,551,RandomForest,0.9699248120300752
+time_shift,Time Shift + Jitter,19,361,190,551,1D-CNN,0.8383458646616542
+time_shift,Time Shift + Jitter,19,361,190,551,GRU,0.24436090225563908
+time_shift,Time Shift + Jitter,19,361,190,551,LSTM,0.09774436090225563
+time_shift,Time Shift + Jitter,19,361,190,551,CNN-GRU,0.44360902255639095
+time_shift,Time Shift + Jitter,19,361,190,551,RandomForest,0.9774436090225563
+time_warp,Time Warping + Jitter,19,361,190,551,1D-CNN,0.6654135338345865
+time_warp,Time Warping + Jitter,19,361,190,551,GRU,0.13909774436090225
+time_warp,Time Warping + Jitter,19,361,190,551,LSTM,0.10526315789473684
+time_warp,Time Warping + Jitter,19,361,190,551,CNN-GRU,0.3458646616541353
+time_warp,Time Warping + Jitter,19,361,190,551,RandomForest,0.9548872180451128
+permutation,Permutation + Jitter,19,361,190,551,1D-CNN,0.7857142857142857
+permutation,Permutation + Jitter,19,361,190,551,GRU,0.19548872180451127
+permutation,Permutation + Jitter,19,361,190,551,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,19,361,190,551,CNN-GRU,0.40601503759398494
+permutation,Permutation + Jitter,19,361,190,551,RandomForest,0.9586466165413534
+mixup_jitter,Mixup + Jitter,20,380,190,570,1D-CNN,0.8947368421052632
+mixup_jitter,Mixup + Jitter,20,380,190,570,GRU,0.22556390977443608
+mixup_jitter,Mixup + Jitter,20,380,190,570,LSTM,0.15789473684210525
+mixup_jitter,Mixup + Jitter,20,380,190,570,CNN-GRU,0.47368421052631576
+mixup_jitter,Mixup + Jitter,20,380,190,570,RandomForest,0.9473684210526315
+magnitude_scaling,Magnitude Scaling + Jitter,20,380,190,570,1D-CNN,0.706766917293233
+magnitude_scaling,Magnitude Scaling + Jitter,20,380,190,570,GRU,0.15789473684210525
+magnitude_scaling,Magnitude Scaling + Jitter,20,380,190,570,LSTM,0.11654135338345864
+magnitude_scaling,Magnitude Scaling + Jitter,20,380,190,570,CNN-GRU,0.424812030075188
+magnitude_scaling,Magnitude Scaling + Jitter,20,380,190,570,RandomForest,0.9360902255639098
+time_shift,Time Shift + Jitter,20,380,190,570,1D-CNN,0.793233082706767
+time_shift,Time Shift + Jitter,20,380,190,570,GRU,0.21052631578947367
+time_shift,Time Shift + Jitter,20,380,190,570,LSTM,0.10526315789473684
+time_shift,Time Shift + Jitter,20,380,190,570,CNN-GRU,0.5300751879699248
+time_shift,Time Shift + Jitter,20,380,190,570,RandomForest,0.9473684210526315
+time_warp,Time Warping + Jitter,20,380,190,570,1D-CNN,0.9172932330827067
+time_warp,Time Warping + Jitter,20,380,190,570,GRU,0.15037593984962405
+time_warp,Time Warping + Jitter,20,380,190,570,LSTM,0.11278195488721804
+time_warp,Time Warping + Jitter,20,380,190,570,CNN-GRU,0.41353383458646614
+time_warp,Time Warping + Jitter,20,380,190,570,RandomForest,0.9511278195488722
+permutation,Permutation + Jitter,20,380,190,570,1D-CNN,0.868421052631579
+permutation,Permutation + Jitter,20,380,190,570,GRU,0.18045112781954886
+permutation,Permutation + Jitter,20,380,190,570,LSTM,0.10526315789473684
+permutation,Permutation + Jitter,20,380,190,570,CNN-GRU,0.41729323308270677
+permutation,Permutation + Jitter,20,380,190,570,RandomForest,0.9360902255639098
