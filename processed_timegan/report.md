@@ -121,3 +121,28 @@ The tables below compare seed-only against the two TimeGAN-based methods using t
 For this dataset and evaluation protocol, classical augmentation methods are the most useful synthetic strategy. Among them, Time Warping + Jitter and Time Shift + Jitter are the most reliable for neural models, while Mixup + Jitter gives the strongest RandomForest result. TimeGAN-based generation does not currently outperform the simpler augmentation pipeline.
 
 If needed, this report can be turned into a notebook cell, a PDF-style summary, or a more detailed results appendix.
+
+## DBA (DTW Barycentric Averaging) - Results Summary
+
+- Source CSV: `processed_timegan/dba_vs_seed_only_results.csv`
+
+### Mean accuracy by method
+
+| Method | Mean Accuracy |
+|---:|---:|
+| DBA (DTW Barycentric Averaging) | 0.4485 |
+| Seed Only (No Synthetic) | 0.3834 |
+
+### DBA mean improvement vs Seed Only (by model)
+
+| Model | Mean Improvement (%) |
+|---|---:|
+| 1D-CNN | 40.05 |
+| CNN-GRU | 115.41 |
+| GRU | 36.37 |
+| LSTM | 12.14 |
+| RandomForest | -1.97 |
+
+- **DBA overall mean improvement:** 40.40% (averaged across models)
+
+> Notes: DBA synthetic samples were generated per-class using DTW barycentric averaging; jitter was added to each barycenter. See the notebook `data_generation_experiment_2.ipynb` for generation parameters (series per barycenter, jitter scale, and iterations).
